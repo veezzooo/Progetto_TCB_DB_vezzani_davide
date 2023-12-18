@@ -1,0 +1,6 @@
+READ ME
+
+1)importare il database 5btepsit sul proprio mysql;
+2)aprire i file: progetto_server e progetto_client, anche progetto_client_tk se lo si vuole provare;
+3)eseguire prima di tutto il progetto_server, poi aprendo un'altra finestra di running scegliere il percorso del client desiderato (scorrendo con la freccettina in su);
+4)eseguire le operazioni indicate e controllare che le modifiche avvengano anche nel database di mysql.

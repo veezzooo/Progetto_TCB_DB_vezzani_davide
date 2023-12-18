@@ -1,0 +1,10 @@
+requirements client-server normali:
+
+mysql-connector == 2.2.9
+pickle == non me lo da dal cmd
+socket == stessa cosa
+
+requirements per il client tk:
+
+tk == 0.1.0
+ttk e message box: non me li trova nel cmd
